@@ -39,7 +39,7 @@
     "del": "^2.2.0",
     "enzyme": "^2.3.0",
     "es5-shim": "^4.5.8",
-    "eslint": "^2.10.2",
+    "eslint": "^7.5.0",
     "eslint-plugin-react": "^5.1.1",
     "express": "^4.13.4",
     "foundation-apps": "^1.2.0",
